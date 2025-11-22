@@ -21,5 +21,11 @@ _Q1 2025_
 _Q2 2025_
 
 1. Upside_Code4rena - Social prediction market
-2. Superform_Cantina - Yield Abstraction Protocol
+2. [SuperForm_Cantina - Yield Abstraction Protocol](./md/SuperForm_Cantina.md)
 3. Superfluid-locker-system_Sherlock - Money Streaming protocol
+
+_Q3 2025_
+
+1. [Notional-exponent_Sherlock - Morpho Lending Protocol](./md/Notional-exponent_Sherlock.md)
+2. [Usg-tangent_Sherlock - Stablecoin Protocol](./md/Usg-tangent_Sherlock.md)
+3. [Summerfi-governanceV2_Sherlock - Governance and Staking](./md/Summerfi-governanceV2.md)
